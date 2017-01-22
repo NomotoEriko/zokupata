@@ -3,7 +3,6 @@ import sys
 from math import log
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-import numpy as np
 
 def make_r(n=10000):
     random.seed()
